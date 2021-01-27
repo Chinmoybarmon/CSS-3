@@ -1,0 +1,25 @@
+
+.three{
+    font-family: 'Pacifico', cursive;
+    border:2px solid red;
+    margin:10px;
+    border-radius:10px ;
+    
+    text-align: center;
+}
+.one{
+    background-color: silver;
+    text-align: center;
+    color: gold;
+    height: 50px;
+    
+}
+.two{
+    background-color: gray;
+    border: rgb(224, 7, 7);
+    text-align: center;
+    margin: 10px;
+    float: inline-end;
+    
+    
+}
